@@ -83,7 +83,7 @@ ai-agents-prototype
 │   │   ├── data_analyst_agent.py        # Analyses input data 
 │   │   ├── researcher_agent.py              # Conducts research by web scraping
 |   |   └── information_retrieval_agent.py   # Fetches data using real-time APIs
-|   |   └── planner_agent.py                 # Communicates with research, data analyst, info. retreival agents
+|   |   └── planner_agent.py                 # Communicates with research, data analyst, info. retrieval agents
 │   │   └── __init__.py                      # Initializes the agents package
 │   ├── helpers
 │   │   ├── llm_utils.py        # Utility functions for interacting with the LLM
